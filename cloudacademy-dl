@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+from cloudacademy import cloudacademy_dl
+
+cloudacademy_dl.main()

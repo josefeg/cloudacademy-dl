@@ -1,5 +1,8 @@
 # CloudAcademy Downloader
 
+[![Latest version on PyPI](https://img.shields.io/pypi/v/cloudacademy-dl.svg)](https://pypi.python.org/pypi/cloudacademy-dl)
+[![Downloads from PyPI](https://img.shields.io/pypi/dm/cloudacademy-dl.svg)](https://pypi.python.org/pypi/cloudacademy-dl)
+
 This script can be used to download
 [CloudAcademy](http://www.cloudacademy.com) lecture videoes so that they can
 be viewed offline. This inspiration for this script came from the

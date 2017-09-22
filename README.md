@@ -10,7 +10,7 @@ be viewed offline. This inspiration for this script came from the
 
 ## Disclaimer
 
-This tool is only meant to be used only if you CloudAcademy account supports
+This tool is meant to be used only if your CloudAcademy account supports
 lecture downloads.
 
 ## Installation instructions
